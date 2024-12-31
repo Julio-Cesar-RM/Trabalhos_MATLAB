@@ -1,4 +1,4 @@
-fprintf('Bem vindo ao problema de Monty Hall!');
+fprintf('Bem vindo ao problema de Monty Hall! ');
 num_sim = input('Quantas simulações quer que eu faça para você? Digite: ');
 
 vitoria_trocando = 0;
